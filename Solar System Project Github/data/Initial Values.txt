@@ -1,0 +1,12 @@
+Object key: Obj, size(m), colour, mass(kg), x position, y position, x velocity, y velocity
+Simulation key: size(m), density(pixels), gravitational_constant N*(m^2)*(kg^-2), precision, duration (years)
+Numbers can be written directly or in the form (aeb) where (aeb) = a*(10^b)
+********************************************************OBJECTS
+sun, 40e8, y, 1.9885e30, 0, 0, 0, 0 
+mercury, 15e8, black, 3.3011e23, 57.909e9, 0, 0, 47360
+venus, 25e8, brown, 4.8675e24, 108.2e9, 0, 0, 35020
+earth, 30e8, b, 5.97237e24, 149.6e9, 0, 0, 29780
+mars, 25e8, r, 6.4185e23, 159.422415588e9, 162.998446030e9, -17162.74, 16786.20
+satellite, 10e8, black, 15, 1.496357860e11, 0, 0, 35615
+*******************************************************SIMULATION
+500e9, 1000, 6.67430e-11, 1, 1

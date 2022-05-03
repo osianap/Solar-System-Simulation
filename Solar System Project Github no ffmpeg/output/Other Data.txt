@@ -1,0 +1,2 @@
+The distance the satellite gets to mars: 298387.06685161474 km
+In a time of 0.9399320607397267 Years

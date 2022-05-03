@@ -1,0 +1,8 @@
+The orbital periods of each object in Earth years: 
+
+sun: na Years
+mercury: 0.23332995327063316 Years
+venus: na Years
+earth: na Years
+mars: na Years
+satellite: na Years
